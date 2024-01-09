@@ -81,5 +81,3 @@ Feel free to explore and integrate these functionalities into your applications!
 For any further assistance or inquiries, please refer to the documentation or contact the project contributors.
 
 ---
-
-_(Make sure to update the README with any additional configurations, dependencies, or changes pertinent to your project.)_
